@@ -1,3 +1,5 @@
+# Marine Debris Classification
+
 This project aims to detect marine debris using satellite imagery from [Sentinel Hub](https://www.sentinel-hub.com/) services and [MARIDA](https://github.com/marine-debris/marine-debris.github.io) dataset.
 MARIDA dataset is based on Sentinel-2 satellite images. Here we just consider the ground-truth data (Class and Confidence).
 Satellite data are extracted directly thanks to [eo-learn](https://eo-learn.readthedocs.io/en/latest/index.html) library.
